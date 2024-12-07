@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+# Jekyll Configuration file
+
+title: ToolsCheat
+description: >-
+  This site provides cheat sheets and quick references for Linux tools, 
+  Pwn tools, and other CLI tools commonly used by programmers and developers.
+baseurl: "" 
+url: "" 
+
+# Social
+
+github_username:  blueorionn
+
+# Exclude from processing.
+
+exclude:
+  - node_modules/
+  - README.md
+  - LICENSE.md
+  - CONTRIBUTING.MD

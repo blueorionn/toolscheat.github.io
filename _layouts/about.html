@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <style>
+        main {
+            text-align: center;
+            padding: 2rem 1rem;
+            max-width: var(--content-max-width);
+            margin: 0 auto;
+        }
+
+        h1 {
+            font-size: 1.5rem;
+            padding: 1rem 0;
+        }
+
+        p {
+            padding: 2rem 0;
+            font-size: 1rem;
+            color: var(--txt-clr-darker);
+            font-family: "Asap", sans-serif;
+        }
+
+        @media only screen and (min-width: 720px) {
+            h1 {
+                font-size: 2rem;
+            }
+
+            p {
+                font-size: 1.25rem;
+                line-height: 1.75rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    {% include header.html %}
+    <main>
+        <h1>
+            Welcome to my personal cheatsheet hub!
+        </h1>
+        <p>
+            I created this website to provide a quick reference for the tools I use most frequently, like Bash, Nmap,
+            and various other command-line utilities. Over time, I’ve accumulated a lot of useful commands and
+            techniques, but keeping track of them all can be challenging. This site serves as a personal cheatsheet,
+            helping me stay productive and efficient while working on projects. My goal is to share these resources with
+            others who might also need a fast and easy way to reference common commands and workflows. Whether you’re a
+            developer, sysadmin, or hobbyist, I hope this site can help you save time and enhance your work with these
+            powerful tools.
+        </p>
+    </main>
+</body>
+
+</html>

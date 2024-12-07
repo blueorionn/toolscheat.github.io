@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 page not found</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,100..900;1,100..900&display=swap');
+        main {
+            height: 100%;
+            width: 100%;
+            display: grid;
+            place-items: center;
+            font-family: "Asap", sans-serif;
+        }
+        .wrapper{
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+        }
+        .text__common{
+            margin: .25rem 0rem;
+            text-align: center;
+            width: max-content;
+            font-size: 2.5rem;
+        }
+        .error_code{
+            color: var(--txt-clr-darker);
+        }
+        .text__inform{
+            color: var(--txt-clr-dark);
+        }
+        .return__link{
+            margin-top: 1.5rem;
+            padding: 1rem 3rem;
+            border-radius: .2rem;
+            background-color: var(--marker-clr);
+            color: var(--bg-body);
+            font-size: 1.25rem;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <div class="wrapper">
+            <h1 class="text__common error_code">404</h1>
+            <h1 class="text__common text__inform">Page Not Found</h1>
+            <a href="/" class="return__link"><span>Return to home page</span></a>
+        </div>
+    </main>
+</body>
+
+</html>

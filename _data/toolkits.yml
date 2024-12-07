@@ -1,0 +1,34 @@
+- Name: Git
+  Url: /cheat/git
+  IconPath: /assets/icons/git-icon.png
+  BaseColor: F34F29
+
+- Name: Hydra
+  Url: /cheat/hydra
+  IconPath: /assets/icons/hydra-icon.png
+  BaseColor: 439D8D
+
+- Name: Hashcat
+  Url: /cheat/hashcat
+  IconPath: /assets/icons/hashcat-icon.png
+  BaseColor: 374151
+
+- Name: Nmap
+  Url: /cheat/nmap
+  IconPath: /assets/icons/nmap-icon.png
+  BaseColor: 3B5D6F
+
+- Name: Bash
+  Url: /cheat/bash
+  IconPath: /assets/icons/bash-icon.png
+  BaseColor: 4C4C4C
+
+- Name: FFUF
+  Url: /cheat/ffuf
+  IconPath: /assets/icons/ffuf-icon.png
+  BaseColor: 2596BE
+
+- Name: Vim
+  Url: /cheat/vim
+  IconPath: /assets/icons/vim-icon.png
+  BaseColor: 10B981
