@@ -15,7 +15,6 @@ github_username:  blueorionn
 # Exclude from processing.
 
 exclude:
-  - node_modules/
   - README.md
   - LICENSE.md
-  - CONTRIBUTING.MD
+  - CONTRIBUTING.md
