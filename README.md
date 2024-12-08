@@ -1,4 +1,4 @@
-![Logo](https://toolscheat.functionbasket.com/logo/logo.png)
+![Logo](https://toolscheat.functionbasket.com/assets/logo/logo.png)
 
 ## About Toolscheat
 
