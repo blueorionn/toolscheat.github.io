@@ -1,39 +1,39 @@
 - Name: Git
-  Url: /cheat/git
+  Url: /cheats/git
   IconPath: /assets/icons/git-icon.png
   BaseColor: F34F29
 
 - Name: Hydra
-  Url: /cheat/hydra
+  Url: /cheats/hydra
   IconPath: /assets/icons/hydra-icon.png
   BaseColor: 439D8D
 
 - Name: Hashcat
-  Url: /cheat/hashcat
+  Url: /cheats/hashcat
   IconPath: /assets/icons/hashcat-icon.png
   BaseColor: 374151
 
 - Name: Nmap
-  Url: /cheat/nmap
+  Url: /cheats/nmap
   IconPath: /assets/icons/nmap-icon.png
   BaseColor: 3B5D6F
 
 - Name: Bash
-  Url: /cheat/bash
+  Url: /cheats/bash
   IconPath: /assets/icons/bash-icon.png
   BaseColor: 4C4C4C
 
 - Name: FFUF
-  Url: /cheat/ffuf
+  Url: /cheats/ffuf
   IconPath: /assets/icons/ffuf-icon.png
   BaseColor: 2596BE
 
 - Name: Vim
-  Url: /cheat/vim
+  Url: /cheats/vim
   IconPath: /assets/icons/vim-icon.png
   BaseColor: 10B981
 
 - Name: Neovim
-  Url: /cheat/neovim
+  Url: /cheats/neovim
   IconPath: /assets/icons/neovim-icon.png
   BaseColor: 4CBA9C

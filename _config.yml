@@ -18,3 +18,9 @@ exclude:
   - README.md
   - LICENSE.md
   - CONTRIBUTING.md
+
+# Custom Collection
+
+collections:
+  cheats:
+    output: true
