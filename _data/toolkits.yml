@@ -32,3 +32,8 @@
   Url: /cheat/vim
   IconPath: /assets/icons/vim-icon.png
   BaseColor: 10B981
+
+- Name: Neovim
+  Url: /cheat/neovim
+  IconPath: /assets/icons/neovim-icon.png
+  BaseColor: 4CBA9C
